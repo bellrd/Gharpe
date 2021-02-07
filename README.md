@@ -1,6 +1,6 @@
 # gharpay
 
-A new Flutter project.
+Customer application for gharpay.xyz
 
 ## Getting Started
 
