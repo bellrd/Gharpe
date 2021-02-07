@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067396645464",
+    "project_id": "gharpay-da856",
+    "storage_bucket": "gharpay-da856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067396645464:android:99da4246d1f7829b95c02d",
+        "android_client_info": {
+          "package_name": "xyz.gharpay.gharpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067396645464-7hs3fmdf2b1c9rbq8vetcbsnu6ipu4db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.gharpay.gharpay",
+            "certificate_hash": "9a012fb3f66b1edd1b5a404abc165b89ebdfd76e"
+          }
+        },
+        {
+          "client_id": "1067396645464-5bloteqrs644qh09l59dl6d40ofl66g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPstTr2qBJMKGbPVyZk0sup8hfrOsVzcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067396645464-5bloteqrs644qh09l59dl6d40ofl66g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
