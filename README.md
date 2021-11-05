@@ -1,6 +1,6 @@
-# gharpay
+# Gharpe
 
-Customer application for gharpay.xyz
+A flutter application (Education project)
 
 ## Getting Started
 
