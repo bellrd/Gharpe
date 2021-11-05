@@ -1,6 +1,6 @@
 # Gharpe
 
-A flutter application (Education project)
+A flutter application (Educational project)
 
 ## Getting Started
 
